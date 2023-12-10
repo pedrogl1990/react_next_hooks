@@ -1,6 +1,6 @@
 import React from "react";
 
-function StateExercicio11Child1(props) {
+function StateExercicio12Child1(props) {
   return (
     <>
       <p>Texto do input: {props.texto}</p>
@@ -8,4 +8,4 @@ function StateExercicio11Child1(props) {
   );
 }
 
-export default StateExercicio11Child1;
+export default StateExercicio12Child1;

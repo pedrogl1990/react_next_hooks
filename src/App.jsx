@@ -12,6 +12,7 @@ import StateExercicio10 from "./components/exercicio10/StateExercicio10";
 import StateExercicio11 from "./components/exercicio11/StateExercicio11";
 import StateExercicio12 from "./components/exercicio12/StateExercicio12";
 import UseRefComp from "./components/UseRef";
+import UseEffectComp from "./components/UseEffect";
 
 import "./App.css";
 
@@ -31,7 +32,8 @@ function App() {
       {/* <StateExercicio10 /> */}
       {/* <StateExercicio11 /> */}
       {/* <StateExercicio12 /> */}
-      <UseRefComp />
+      {/* <UseRefComp /> */}
+      <UseEffectComp />
     </>
   );
 }

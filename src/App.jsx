@@ -8,6 +8,8 @@ import StateExercicio6 from "./components/exercicio6/StateExercicio6";
 import StateExercicio7 from "./components/exercicio7/StateExercicio7";
 import StateExercicio8 from "./components/exercicio8/StateExercicio8";
 import StateExercicio9 from "./components/exercicio9/StateExercicio9";
+import StateExercicio10 from "./components/exercicio10/StateExercicio10";
+import StateExercicio11 from "./components/exercicio11/StateExercicio11";
 
 import "./App.css";
 
@@ -23,7 +25,9 @@ function App() {
       {/* <StateExercicio6 /> */}
       {/* <StateExercicio7 /> */}
       {/* <StateExercicio8 /> */}
-      <StateExercicio9 />
+      {/* <StateExercicio9 /> */}
+      {/* <StateExercicio10 /> */}
+      <StateExercicio11 />
     </>
   );
 }
